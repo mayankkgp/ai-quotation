@@ -1,0 +1,6 @@
+{
+  "name": "Fabrito B2B Fabric Sourcing",
+  "description": "B2B Fabric Sourcing Chat Interface with 3-pane desktop layout and active quotation view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

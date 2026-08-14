@@ -1,0 +1,252 @@
+[
+  {
+    "chatId": "chat_001",
+    "userInput": "I need 5000 meters of lightweight woven for women's summer dresses in blush, preferably floral.",
+    "systemReply": "I've pulled up some lightweight options perfect for summer wear. To ensure breathability, I filtered for a low GSM of [110, 140] in [Woven] fabric types. I've restricted the application to [Dresses] for [Women], isolated the [Floral] prints in [Blush], and set the minimum stock quantity to [5000]."
+  },
+  {
+    "chatId": "chat_002",
+    "userInput": "Looking for heavy stuff to make winter hoodies for men. Charcoal solid colors only, need a bulk of 10000.",
+    "systemReply": "I've loaded a quotation for heavy knits suitable for winter outerwear. I locked the [Solid] pattern in [Charcoal] and filtered for heavier weights between [320, 400] GSM, specifically [Fleece, French Terry] structures in [Knit]. These are targeted for [Men] needing [Jackets, Activewear] with an available volume of [10000]."
+  },
+  {
+    "chatId": "chat_003",
+    "userInput": "Give me options for activewear leggings. Needs high stretch, nylon blend, Deep Indigo color, around 2500 qty.",
+    "systemReply": "Here are the highly stretchable options. Since activewear leggings require extreme elasticity, I filtered for [Knit] fabrics containing [Nylon, Spandex]. I specifically targeted blends of [75% Nylon 25% Spandex, 80% Nylon 20% Spandex, 85% Nylon 15% Spandex] in [Deep Indigo] for [Activewear] with a minimum quantity of [2500]."
+  },
+  {
+    "chatId": "chat_004",
+    "userInput": "I'm making men's formal trousers. Need something woven, 100% cotton, Optic White, anti-wrinkle, 1500 units.",
+    "systemReply": "I've generated a quote for formal trouser fabrics. I applied a strict filter for [100% Cotton] compositions in stable [Woven] structures like [Twill, Canvas] colored [Optic White]. I enforced an [Anti-wrinkle] processing requirement for [Men] needing [Trousers] matching an available quantity of [1500]."
+  },
+  {
+    "chatId": "chat_005",
+    "userInput": "Show me 100% Linen fabrics for unisex co-ords in Sand color. Wide width if possible, just need 500.",
+    "systemReply": "Here is the quotation for premium [Linen] fabrics. I filtered strictly for [100% Linen] compositions in [Sand] targeting [Unisex] apparel like [Co-ords]. To maximize your cutting efficiency, I restricted the physical dimensions to wider [60 inch, 72 inch] options and ensured a minimum quantity of [500]."
+  },
+  {
+    "chatId": "chat_006",
+    "userInput": "I want soft cotton for kids' t-shirts. Bio-washed, bright solid Lilac, around 300.",
+    "systemReply": "I've prepared a list of soft cotton knits for children's apparel. I filtered for [Knit] fabrics with [100% Cotton] compositions, applied a [Bio-wash] finish for softness, and selected [Solid] designs in [Lilac] suitable for [Kids] needing [T-shirts] with an available quantity of [300]."
+  },
+  {
+    "chatId": "chat_007",
+    "userInput": "Need a flowy chiffon for women's evening dresses in Jet Black. Check for 1000 available.",
+    "systemReply": "Here are the elegant chiffon options for evening wear. I filtered for [Chiffon] structures in [Woven] fabrics, specifically targeting the color [Jet Black]. These are optimized for [Women] needing [Dresses] with a minimum volume of [1000]."
+  },
+  {
+    "chatId": "chat_008",
+    "userInput": "Show me yarn-dyed checks in Slate Blue for men's casual shirts, I need 5000.",
+    "systemReply": "I've pulled the quotation for yarn-dyed shirtings. I restricted the search to [Woven] fabrics with [Checks] designs in [Slate Blue] and applied the [Yarn Dyed] technique filter for [Men] needing [Casual Shirts] while ensuring an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_009",
+    "userInput": "Looking for water-repellent fabrics for unisex winter jackets. Forest Green, Heavyweight, massive 15000 bulk.",
+    "systemReply": "I've found durable options for outerwear. I filtered for high weights between [280, 320, 400] GSM in [Forest Green] and applied the [Water-repellent] finish requirement. These are categorized for [Jackets] designed for [Unisex] applications matching your volume need of [15000]."
+  },
+  {
+    "chatId": "chat_010",
+    "userInput": "I need some Mocha rib knit options for the cuffs and collars of sweatshirts. Need 2500.",
+    "systemReply": "Here is a selection of rib knits for trims. I specifically filtered for [Rib Knit] structures within the [Knit] category in [Mocha] to ensure proper elasticity for trims on [Jackets, Activewear] with a minimum quantity of [2500]."
+  },
+  {
+    "chatId": "chat_011",
+    "userInput": "Give me heavy denim for men's trousers, solid Navy Blue, extreme bulk 50000.",
+    "systemReply": "I've loaded the classic denim options for large scale production. I filtered for [Denim] structures in [Woven] fabrics and locked the color to [Navy Blue]. These heavy weights between [320, 400] GSM are perfect for [Men] needing [Trousers] meeting an available quantity of [50000]."
+  },
+  {
+    "chatId": "chat_012",
+    "userInput": "Need striped jersey fabric for unisex t-shirts. Rose Pink, medium weight, 1500 qty.",
+    "systemReply": "I've generated a quote for medium-weight jersey. I filtered for [Jersey] structures in [Knit] fabrics with a medium weight between [180, 220] GSM in [Rose Pink]. I also applied the [Stripes] design filter for [Unisex] apparel like [T-shirts] with an available quantity of [1500]."
+  },
+  {
+    "chatId": "chat_013",
+    "userInput": "Show me abstract prints on georgette for women's tops in Teal. Bulk of 10000.",
+    "systemReply": "Here are the georgette options featuring abstract patterns. I set the filters to [Georgette] structures and [Woven] fabric types in [Teal], and narrowed the aesthetic down to [Abstract] designs for [Women] needing [Casual Shirts] with an available quantity of [10000]."
+  },
+  {
+    "chatId": "chat_014",
+    "userInput": "Do you have acid-wash fleece for casual co-ords in Ash Grey? Looking for 2500.",
+    "systemReply": "I've pulled the acid-washed fleece fabrics. I restricted the search to [Fleece] structures under [Knit] fabrics in [Ash Grey] and applied the [Acid-wash] finish filter. These are suitable for [Co-ords] with a minimum quantity of [2500]."
+  },
+  {
+    "chatId": "chat_015",
+    "userInput": "I need 100% polyester for sublimation printing in Off White, suitable for activewear. 5000 qty.",
+    "systemReply": "I've prepared a list of polyester fabrics ready for sublimation. I filtered for [100% Polyester] compositions in [Knit] fabrics colored [Off White] and ensured compatibility with the [Sublimation] printing technique for [Activewear] meeting an available volume of [5000]."
+  },
+  {
+    "chatId": "chat_016",
+    "userInput": "Looking for mercerized pique knit for men's polo t-shirts in Burgundy. Need 1000.",
+    "systemReply": "Here are the premium pique knit options. I filtered for [Pique] structures in [Knit] fabrics colored [Burgundy] and applied the [Mercerized] finish filter to give the fabric a slight sheen, ideal for [Men] needing [T-shirts] with an available quantity of [1000]."
+  },
+  {
+    "chatId": "chat_017",
+    "userInput": "Show me 100% cotton french terry for kids' co-ords in Pale Yellow. 1500 needed.",
+    "systemReply": "I've generated a quote for breathable french terry. I filtered for [French Terry] structures with a [100% Cotton] composition in [Pale Yellow]. These comfortable knits are targeted for [Kids] needing [Co-ords] with a minimum volume of [1500]."
+  },
+  {
+    "chatId": "chat_018",
+    "userInput": "I need anti-pilling fabric for school uniform trousers. Poly-cotton blend in Charcoal, huge order 25000.",
+    "systemReply": "I've found durable poly-cotton options for large uniform orders. I filtered for blends like [65% Polyester 35% Viscose, 80% Polyester 20% Spandex] in [Charcoal] and strictly applied an [Anti-pilling] treatment for [Trousers] while checking for an available quantity of [25000]."
+  },
+  {
+    "chatId": "chat_019",
+    "userInput": "Give me block print fabrics with small motifs for women's casual shirts in Terracotta. Just 500.",
+    "systemReply": "Here is the quotation for traditional block prints. I filtered for the [Block Print] technique in [Terracotta] and restricted the pattern scale to [Small] motifs for [Women] needing [Casual Shirts], satisfying a minimum volume of [500]."
+  },
+  {
+    "chatId": "chat_020",
+    "userInput": "Looking for 100% viscose for summer dresses. Solid Lime, need 5000.",
+    "systemReply": "I've pulled up the fluid viscose options. I locked the filter to [100% Viscose] compositions in [Woven] fabrics with [Solid] designs and [Lime] colors, perfectly suited for lightweight [Dresses] while checking for an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_021",
+    "userInput": "Show me heavy canvas, 100% cotton in Camel for men's jackets, 15000 qty.",
+    "systemReply": "I've loaded the heavy-duty canvas fabrics. I filtered for [Canvas] structures with [100% Cotton] compositions in [Camel] and high weights between [320, 400] GSM, ensuring they are robust enough for [Men] needing [Jackets] with an available volume of [15000]."
+  },
+  {
+    "chatId": "chat_022",
+    "userInput": "I want 100% Modal fabrics for women's soft t-shirts in Ice Blue, 2500 units.",
+    "systemReply": "Here are the ultra-soft modal knits. I filtered strictly for [100% Modal] compositions within the [Knit] fabric category in [Ice Blue], optimizing for comfort in [Women] needing [T-shirts] with an available quantity of [2500]."
+  },
+  {
+    "chatId": "chat_023",
+    "userInput": "Need crisp poplin for formal shirts in Optic White, 10000 bulk.",
+    "systemReply": "I've generated a quote for classic shirting. I set the filters to [Poplin] structures in [Woven] fabrics and locked the color exactly to [Optic White] for [Casual Shirts], verifying an available volume of [10000]."
+  },
+  {
+    "chatId": "chat_024",
+    "userInput": "Show me Crimson Red satin for women's evening wear, about 500.",
+    "systemReply": "I've found the elegant satin options you requested. I filtered for [Satin] structures in [Woven] fabrics and restricted the search to [Crimson Red] for [Women] needing [Dresses], confirming a minimum quantity of [500]."
+  },
+  {
+    "chatId": "chat_025",
+    "userInput": "Looking for yarn-dyed stripes in Olive Green for unisex casual shirts, 5000 qty.",
+    "systemReply": "Here is the quotation for striped yarn-dyed fabrics. I filtered for [Stripes] designs in [Olive Green] and applied the [Yarn Dyed] technique requirement for [Unisex] apparel like [Casual Shirts], checking for an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_026",
+    "userInput": "Do you have pigment-dyed cotton for men's t-shirts in Chocolate Brown? Need 2500.",
+    "systemReply": "I've pulled the pigment-dyed options for that washed look. I filtered for [100% Cotton] compositions in [Knit] fabrics colored [Chocolate Brown] and applied the [Pigment Dye] technique filter for [Men] needing [T-shirts] with a minimum volume of [2500]."
+  },
+  {
+    "chatId": "chat_027",
+    "userInput": "Need rotary screen printed florals for kids' dresses in Peach, 1500.",
+    "systemReply": "I've prepared a list of printed fabrics. I filtered for the [Rotary Screen] printing technique with [Floral] patterns in [Peach], suitable for vibrant [Kids] apparel like [Dresses] with an available quantity of [1500]."
+  },
+  {
+    "chatId": "chat_028",
+    "userInput": "Show me 100% Wool fabrics for men's winter jackets in Navy Blue, 5000 units.",
+    "systemReply": "Here are the premium wool options for outerwear. I filtered strictly for [100% Wool] compositions in [Navy Blue] and heavier weights in [Woven] fabrics, perfectly suited for [Men] needing [Jackets], confirming a volume of [5000]."
+  },
+  {
+    "chatId": "chat_029",
+    "userInput": "Looking for Mocha corduroy for men's trousers, need a bulk of 15000.",
+    "systemReply": "I've generated a quote for textured corduroy. I filtered for [Corduroy] structures in [Woven] fabrics and locked the color to [Mocha] for [Men] needing [Trousers], ensuring an available quantity of [15000]."
+  },
+  {
+    "chatId": "chat_030",
+    "userInput": "I need peached finish hoodies fabric, solid Mustard Yellow, big run of 25000.",
+    "systemReply": "I've found soft, peached fabrics for large scale production. I applied the [Peached] finish filter to heavy [Knit] structures and restricted the color to [Mustard Yellow] for [Jackets, Activewear], verifying an available volume of [25000]."
+  },
+  {
+    "chatId": "chat_031",
+    "userInput": "Show me 100% silk with digital reactive prints for dresses in Magenta, low qty 300.",
+    "systemReply": "Here is the quotation for premium printed silk. I filtered strictly for [100% Silk] compositions in [Magenta] and paired it with the precise [Digital Reactive] printing technique for high-quality [Dresses] matching an available quantity of [300]."
+  },
+  {
+    "chatId": "chat_032",
+    "userInput": "I need wide 60 inch woven fabrics in solid Sage Green for co-ords, 10000 qty.",
+    "systemReply": "I've pulled the wide-width wovens. I filtered for [Woven] fabrics with a dimension of [60 inch], locked the color to [Sage Green], and set the design to [Solid] for [Co-ords] with a minimum volume of [10000]."
+  },
+  {
+    "chatId": "chat_033",
+    "userInput": "Do you have 72 inch width knit fabrics for activewear in Aqua? 5000 units.",
+    "systemReply": "I've generated a list of extra-wide knits to maximize your cutting yield. I filtered for [Knit] fabrics in [Aqua] with a dimension of [72 inch], specifically targeted for [Activewear], confirming an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_034",
+    "userInput": "Looking for polka dots on a lightweight woven for women's tops in Lilac, 1500 qty.",
+    "systemReply": "Here are the lightweight printed wovens. I filtered for [Woven] fabrics with a low weight between [110, 140] GSM in [Lilac] and applied the [Polka Dots] design filter for [Women] needing [Casual Shirts] with an available quantity of [1500]."
+  },
+  {
+    "chatId": "chat_035",
+    "userInput": "Show me geometric prints with large motifs for dresses in Deep Indigo, 2500 units.",
+    "systemReply": "I've pulled the bold geometric options. I filtered for [Geometric] patterns in [Deep Indigo] and specifically restricted the scale to [Large] motifs for statement [Dresses], checking for an available volume of [2500]."
+  },
+  {
+    "chatId": "chat_036",
+    "userInput": "I need solid Sand linen for men's casual shirts, 10000 qty.",
+    "systemReply": "Here is the quotation for vibrant linen. I filtered for [Linen] contents and [100% Linen] compositions, locking the visual to [Solid] designs and [Sand] colors for [Men] needing [Casual Shirts], meeting an available quantity of [10000]."
+  },
+  {
+    "chatId": "chat_037",
+    "userInput": "Looking for Heather Grey french terry for unisex sweatpants, bulk 15000.",
+    "systemReply": "I've generated a quote for classic athletic knits. I filtered for [French Terry] structures in [Knit] fabrics and locked the color to [Heather Grey] for [Unisex] apparel like [Trousers, Activewear], ensuring a minimum volume of [15000]."
+  },
+  {
+    "chatId": "chat_038",
+    "userInput": "Show me sulphur-dyed denim for men's jackets in Charcoal, 5000 units.",
+    "systemReply": "I've found the specialty dyed denim options. I filtered for [Denim] structures in [Woven] fabrics colored [Charcoal] and applied the [Sulphur Dye] technique filter for rugged [Men] needing [Jackets], confirming an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_039",
+    "userInput": "I need 95% Cotton 5% Spandex blend for women's fitted t-shirts in Blush, 2500.",
+    "systemReply": "Here are the stretch cotton knits. I filtered specifically for the [95% Cotton 5% Spandex] blend composition in [Knit] fabrics and [Blush] colors, ideal for fitted [Women] apparel like [T-shirts] with an available volume of [2500]."
+  },
+  {
+    "chatId": "chat_040",
+    "userInput": "Looking for a 60% Cotton 40% Polyester blend in twill for uniforms in Slate Blue. 25000 massive run.",
+    "systemReply": "I've pulled the durable poly-cotton twills for large scale production. I filtered for [Twill] structures in [Woven] fabrics colored [Slate Blue] and strictly applied the [60% Cotton 40% Polyester] composition filter for hardwearing [Casual Shirts, Trousers] matching an available quantity of [25000]."
+  },
+  {
+    "chatId": "chat_041",
+    "userInput": "Show me 100% Bamboo knits for eco-friendly kids' t-shirts in Pale Yellow, 1000.",
+    "systemReply": "Here is the quotation for sustainable bamboo fabrics. I filtered strictly for [100% Bamboo] compositions in [Knit] fabrics colored [Pale Yellow], ensuring an ultra-soft hand feel for [Kids] needing [T-shirts] with an available volume of [1000]."
+  },
+  {
+    "chatId": "chat_042",
+    "userInput": "Need medium motif florals on viscose for women's dresses in Rose Pink, 5000 units.",
+    "systemReply": "I've generated a list of perfectly scaled floral prints. I filtered for [Viscose] contents and [Floral] designs in [Rose Pink], explicitly restricting the pattern size to [Medium] motifs for [Women] needing [Dresses], checking for an available quantity of [5000]."
+  },
+  {
+    "chatId": "chat_043",
+    "userInput": "Looking for large motif abstract prints on georgette in Teal, 1500.",
+    "systemReply": "I've found the bold abstract georgette options. I filtered for [Georgette] structures in [Woven] fabrics with [Abstract] designs, [Teal] colors, and [Large] motifs matching an available volume of [1500]."
+  },
+  {
+    "chatId": "chat_044",
+    "userInput": "Show me very sheer 110 GSM fabrics for women's tops in Off White, 2500 qty.",
+    "systemReply": "Here are the ultra-lightweight sheer options. I strictly filtered for the lowest weight category of [110] GSM in [Woven] fabrics colored [Off White] for [Women] needing [Casual Shirts], verifying an available quantity of [2500]."
+  },
+  {
+    "chatId": "chat_045",
+    "userInput": "I need standard 220 GSM jersey for men's basic t-shirts in Jet Black, massive 50000 order.",
+    "systemReply": "I've pulled the standard weight jersey fabrics for large volumes. I filtered for [Jersey] structures in [Knit] fabrics and locked the weight exactly to [220] GSM in [Jet Black] for high-quality [Men] apparel like [T-shirts], satisfying an available volume of [50000]."
+  },
+  {
+    "chatId": "chat_046",
+    "userInput": "Looking for heavy 280 GSM fleece for unisex hoodies in Burgundy, 10000 bulk.",
+    "systemReply": "I've generated a quote for mid-to-heavyweight fleece. I filtered for [Fleece] structures in [Knit] fabrics colored [Burgundy] and set the weight requirement to [280] GSM for [Unisex] apparel like [Jackets, Activewear] matching an available quantity of [10000]."
+  },
+  {
+    "chatId": "chat_047",
+    "userInput": "Do you have any non-woven materials for industrial use in Ash Grey? Need 15000.",
+    "systemReply": "Here are the non-woven options available in the catalog. I applied a strict filter for [Non-woven] fabric types in [Ash Grey] to bypass standard apparel knits and wovens, ensuring an available volume of [15000]."
+  },
+  {
+    "chatId": "chat_048",
+    "userInput": "Show me solid pique knit fabrics in Optic White, 2500 qty.",
+    "systemReply": "I've pulled the crisp pique knits. I filtered for [Pique] structures in [Knit] fabrics, ensuring the aesthetic is [Solid] designs and specifically [Optic White] colors, checking for an available quantity of [2500]."
+  },
+  {
+    "chatId": "chat_049",
+    "userInput": "I need interlock knit for baby wear, bio-washed and soft in Peach, 5000 units.",
+    "systemReply": "Here is the quotation for gentle interlock knits. I filtered for [Interlock] structures in [Knit] fabrics colored [Peach] and applied a [Bio-wash] finish for ultimate softness suitable for [Kids], with an available volume of [5000]."
+  },
+  {
+    "chatId": "chat_050",
+    "userInput": "Looking for woven flannel checks for men's casual shirts in Forest Green, 10000 bulk.",
+    "systemReply": "I've found the classic flannel options. I filtered for [Flannel] structures in [Woven] fabrics with [Checks] designs in [Forest Green], optimized for [Men] needing [Casual Shirts], ensuring an available quantity of [10000]."
+  }
+]
