@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { PhoneCall, Mail, Check, MessageCircle, X } from 'lucide-react';
 
 /**
@@ -10,6 +10,8 @@ export function PrimaryCtaBar({ authState, activeQuoteId }) {
   const [callbackSuccess, setCallbackSuccess] = useState(false);
   const [emailSuccess, setEmailSuccess] = useState(false);
 
+  const firstInputRef = useRef(null);
+
   // Form State
   const [formData, setFormData] = useState({
     name: '',
@@ -19,6 +21,18 @@ export function PrimaryCtaBar({ authState, activeQuoteId }) {
   });
 
   const [formErrors, setFormErrors] = useState({});
+
+  // Auto-focus the first input field whenever the inline form opens
+  useEffect(() => {
+    if (activeForm && !authState?.isLoggedIn) {
+      const timer = setTimeout(() => {
+        if (firstInputRef.current) {
+          firstInputRef.current.focus();
+        }
+      }, 50);
+      return () => clearTimeout(timer);
+    }
+  }, [activeForm, authState?.isLoggedIn]);
 
   // Reset success timers on unmount or activeQuoteId change
   useEffect(() => {
@@ -137,6 +151,7 @@ export function PrimaryCtaBar({ authState, activeQuoteId }) {
         >
           {/* [ Name ] */}
           <input
+            ref={firstInputRef}
             id="inline-input-name"
             type="text"
             name="name"
